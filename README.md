@@ -43,6 +43,7 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 ### Applications and Games
 - [z80-apps](https://github.com/maccasoft/z80-apps), various applications and utilities
 - [te](https://github.com/MiguelVis/te), a text editor for CP/M
+- [snek](https://github.com/blaknite/snek), snake for the RC2014
 - [z80-life](https://github.com/ncot-tech/z80-life), Conway's Game of Life
 
 ### Libraries and Utilities

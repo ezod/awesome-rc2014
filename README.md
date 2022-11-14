@@ -28,6 +28,9 @@ A curated list of awesome RC2014 resources.
 - [RC2014 Test and Diagnostics EPROM](https://github.com/anachrocomputer/RC2014tester)
 - [z80-life](https://github.com/ncot-tech/z80-life), Conway's Game of Life
 
+## Development
+- [Z88DK](https://github.com/z88dk/z88dk), development kit for Z80 machines
+- [RC2014 Emulator Kit](https://github.com/EtchedPixels/RC2014)
+
 ## Tools
 - [picoterm](https://github.com/RC2014Z80/picoterm), Raspberry Pi Pico VGA terminal emulator
-- [RC2014 Emulator Kit](https://github.com/EtchedPixels/RC2014)

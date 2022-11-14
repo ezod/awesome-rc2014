@@ -1,6 +1,6 @@
 # Awesome RC2014 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome RC2014 resources.
+A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) homebrew Z80 computer.
 
 ## Repositories
 - [Official RC2014 repository](https://github.com/RC2014Z80/RC2014)

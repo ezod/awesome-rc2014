@@ -42,9 +42,11 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 
 ### Applications and Games
 - [z80-apps](https://github.com/maccasoft/z80-apps), various applications and utilities
+- [te](https://github.com/MiguelVis/te), a text editor for CP/M
 - [z80-life](https://github.com/ncot-tech/z80-life), Conway's Game of Life
 
 ### Libraries and Utilities
+- [samarux](https://github.com/MiguelVis/samarux), Unix-like shell for CP/M
 - [RC2014-YM2149](https://github.com/MMaciocia/RC2014-YM2149), patched PTX player for YM2149
 - [RC2014 Test and Diagnostics EPROM](https://github.com/anachrocomputer/RC2014tester)
 
@@ -55,6 +57,7 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 
 ### Compilers and Toolchains
 - [Z88DK](https://github.com/z88dk/z88dk), development kit for Z80 machines
+- [mescc](https://github.com/MiguelVis/mescc), Mike's Enhanced Small C Compiler for Z80 and CP/M
 
 ### Emulators
 - [RC2014 Emulator Kit](https://github.com/EtchedPixels/RC2014)

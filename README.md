@@ -57,6 +57,7 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 
 ### Compilers and Toolchains
 - [Z88DK](https://github.com/z88dk/z88dk), development kit for Z80 machines
+- [Sjasm](https://github.com/Konamiman/Sjasm), Z80 assembler
 - [mescc](https://github.com/MiguelVis/mescc), Mike's Enhanced Small C Compiler for Z80 and CP/M
 
 ### Emulators

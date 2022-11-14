@@ -61,6 +61,11 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 ### BASIC
 - [RC2014 BASIC Programs](https://github.com/RC2014Z80/RC2014-BASIC-Programs)
 
+### CP/M Software Archives
+- [The Unofficial CP/M Web Site](http://www.cpm.z80.de/)
+- [Commercial CP/M Software at Retrocomputing Archive](http://www.retroarchive.org/cpm/)
+- [The HUMONGOUS CP/M Software Archives](http://cpmarchives.classiccmp.org/)
+
 ## Development
 
 ### Compilers and Toolchains

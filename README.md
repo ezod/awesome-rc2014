@@ -11,6 +11,7 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 ### Series
 - [Yellow MSX Series for RC2014](https://github.com/vipoo/yellow-msx-series-for-rc2014)
 - [Quazar](https://2014.samcoupe.com/)
+- [Mr. Gelée's Tech](https://jerryfrost1.wixsite.com/tech)
 
 ### Video
 - [TMS9918A Video Card](https://github.com/jblang/TMS9918A)

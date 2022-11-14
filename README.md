@@ -8,10 +8,14 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 
 ## Hardware
 
-### Video and Sound
+### Series
 - [Yellow MSX Series for RC2014](https://github.com/vipoo/yellow-msx-series-for-rc2014)
+
+### Video
 - [TMS9918A Video Card](https://github.com/jblang/TMS9918A)
 - [Propeller Graphics Card](https://github.com/maccasoft/propeller-graphics-card)
+
+### Sound
 - [SN76489 Sound Card](https://github.com/jblang/SN76489)
 - [YM2149 Sound Card](https://github.com/electrified/rc2014-ym2149)
 

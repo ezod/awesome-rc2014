@@ -24,6 +24,7 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 
 ### Communication
 - [RTL8019 Ethernet Card](https://github.com/Manawyrm/RC2014-Ethernet)
+- [RCNetwork](https://github.com/tpycio/RCNetwork), COM20020-based network controller
 
 ### Clocks
 - [DS1302 Real Time Clock](https://github.com/electrified/rc2014-ds1302-rtc)

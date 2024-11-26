@@ -20,6 +20,7 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 ### Sound
 - [SN76489 Sound Card](https://github.com/jblang/SN76489)
 - [YM2149 Sound Card](https://github.com/electrified/rc2014-ym2149)
+- [YM2151 Sound Card](https://github.com/electrified/rc2014-ym2151)
 
 ### Storage
 - [82C55-based IDE Interface](https://github.com/electrified/rc2014-82c55-ide)
@@ -52,11 +53,14 @@ A curated list of awesome resources for the [RC2014](https://rc2014.co.uk/) home
 - [te](https://github.com/MiguelVis/te), a text editor for CP/M
 - [snek](https://github.com/blaknite/snek), snake for the RC2014
 - [z80-life](https://github.com/ncot-tech/z80-life), Conway's Game of Life
+- [gorilla-cpm](https://github.com/sblendorio/gorilla-cpm), GORILLA.BAS port
+- [hangman-cpm](https://github.com/sblendorio/hangman-cpm), UNIX hangman port
 
 ### Libraries and Utilities
 - [samarux](https://github.com/MiguelVis/samarux), Unix-like shell for CP/M
 - [RC2014-YM2149](https://github.com/MMaciocia/RC2014-YM2149), patched PTX player for YM2149
 - [RC2014 Test and Diagnostics EPROM](https://github.com/anachrocomputer/RC2014tester)
+- [RC2014-TMS9918A](https://github.com/shieladixon/RC2014-TMS9918A), software for the TMS9918A VDP
 
 ### BASIC
 - [RC2014 BASIC Programs](https://github.com/RC2014Z80/RC2014-BASIC-Programs)
